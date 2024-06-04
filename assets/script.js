@@ -40,7 +40,6 @@ arrowRight.addEventListener('click', () => {
 	imgSelect()
 });
 
-
 function selectDot(){
 	dots.forEach((dot) => {
 		dot.classList.remove('dot_selected')
